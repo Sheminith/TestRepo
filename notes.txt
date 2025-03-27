@@ -1,0 +1,3 @@
+git branch - all the braches
+
+git log - all the commits of the code
