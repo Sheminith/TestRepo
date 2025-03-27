@@ -1,3 +1,7 @@
-git branch - all the braches
+initialize git - git init
 
-git log - all the commits of the code
+add files - git add .
+
+commit - git commit .
+
+push - git push -u origin main
